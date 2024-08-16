@@ -2,6 +2,8 @@ package com.valenyala.chess.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
+val Transparent = Color(0x00000000)
+
 val Purple80 = Color(0xFFD0BCFF)
 val PurpleGrey80 = Color(0xFFCCC2DC)
 val Pink80 = Color(0xFFEFB8C8)
@@ -19,3 +21,5 @@ val DarkBlueA700 = Color(0xFF002171)
 val Blue500 = Color(0xFF2196F3)
 val Blue300 = Color(0xFF64B5F6)
 val Blue700 = Color(0xFF1976D2)
+
+val WarmTaupe = Color(0xFFD2B48C)
